@@ -120,11 +120,11 @@
         "image":"sour_plum"
     },
     {
-        "item": "Dragon Sid",
+        "item": "Dragon Seeds",
         "price": 1,
         "category": "Snack",
         "isFavorite": false,
-        "image":"dragon_sid"
+        "image":"dragon_seeds"
     },
     {
         "item": "Sunflower Seeds",
