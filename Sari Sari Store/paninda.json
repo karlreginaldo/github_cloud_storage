@@ -171,35 +171,35 @@
     {
         "item": "GreatTaste White Twin",
         "price": 12,
-        "category": "coffee",
+        "category": "Coffee",
         "isFavorite": false,
         "image":"greattaste_white_twin"
     },
     {
         "item": "Kopiko Black Twin",
         "price": 12,
-        "category": "coffee",
+        "category": "Coffee",
         "isFavorite": false,
         "image":"kopiko_black_twin"
     },
     {
         "item": "Kopiko Blanca Twin",
         "price": 12,
-        "category": "coffee",
+        "category": "Coffee",
         "isFavorite": false,
         "image":"kopiko_blanca_twin"
     },
     {
         "item": "Kopiko Brown Twin",
         "price": 10,
-        "category": "coffee",
+        "category": "Coffee",
         "isFavorite": false,
         "image":"kopiko_brown_twin"
     },
     {
         "item": "GreatTaste Brown Twin",
         "price": 12,
-        "category": "coffee",
+        "category": "Coffee",
         "isFavorite": false,
         "image":"greattaste_brown_twin"
     }
