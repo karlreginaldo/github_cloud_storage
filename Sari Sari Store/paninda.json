@@ -31,7 +31,8 @@
       "item": "Tuyo",
       "price": 10,
       "category": "",
-      "isFavorite": true
+      "isFavorite": true,
+      "image":"tuyo"
     },
     {
       "item": "Crump",
