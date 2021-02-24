@@ -3,35 +3,35 @@
         "item": "Potato Fries",
         "price": 7,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "true",
         "image":"potato_fries"
     },
     {
         "item": "Nova",
         "price": 15,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "true",
         "image":"nova"
     },
     {
         "item": "Piattos",
         "price": 15,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "true",
         "image":"piattos"
     },
     {
         "item": "Vcut",
         "price": 15,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "true",
         "image":"vcut"
     },
     {
         "item": "Sponge Crunch",
         "price": 8,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "true",
         "image":"sponge_crunch"
     }
     ,
@@ -39,168 +39,168 @@
         "item": "Pee Wee",
         "price": 7,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "true",
         "image":"pee_wee"
     },
     {
         "item": "Oishi",
         "price": 7,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "true",
         "image":"oishi"
     },
     {
         "item": "Martys Cracklings",
         "price": 7,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "true",
         "image":"martys_cracklings"
     },
     {
         "item": "Chippy",
         "price": 7,
         "category": "Snack",
-        "isFavorite": 'true',
+        "isFavorite": "true",
         "image":"chippy"
     },
     {
         "item": "Roller Coaster",
         "price": 7,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "true",
         "image":"roller_coaster"
     },
     {
         "item": "Tahoos Jumbo",
         "price": 2,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "true",
         "image":"tahoos_jumbo"
     },
     {
         "item": "Xsakto",
         "price": 1,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "true",
         "image":"xsakto"
     },
     {
         "item": "Mucher",
         "price": 1,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "false",
         "image":"muncher"
     },
     {
         "item": "Happy",
         "price": 1,
         "category": "Snack",
-        "isFavorite": 'true',
+        "isFavorite": "false",
         "image":"happy"
     },
     {
         "item": "Sugo",
         "price": 1,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "false",
         "image":"sugo"
     },
     {
         "item": "Hi Ho",
         "price": 1,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "false",
         "image":"hi_ho"
     },
     {
         "item": "Sour Plum",
         "price": 1,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "false",
         "image":"sour_plum"
     },
     {
         "item": "Dragon Sid",
         "price": 1,
         "category": "Snack",
-        "isFavorite": 'true',
+        "isFavorite": "false",
         "image":"dragon_sid"
     },
     {
         "item": "Sunflower Seeds",
         "price": 1,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "false",
         "image":"sunflower_seeds"
     },
     {
         "item": "Ding Dong",
         "price": 1,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "false",
         "image":"ding_dong"
     },
     {
         "item": "Bangus",
         "price": 1,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "false",
         "image":"bangus"
     },
     {
         "item": "Patata",
         "price": 1,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "false",
         "image":"patata"
     },
     {
         "item": "Cracklings",
         "price": 1,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "false",
         "image":"cracklings"
     },
     {
         "item": "Sweet Corn",
         "price": 1,
         "category": "Snack",
-        "isFavorite": 'false',
+        "isFavorite": "false",
         "image":"sweet_corn"
     },
     {
         "item": "GreatTaste White Twin",
         "price": 12,
         "category": "Coffee",
-        "isFavorite": 'false',
+        "isFavorite": "false",
         "image":"greattaste_white_twin"
     },
     {
         "item": "Kopiko Black Twin",
         "price": 12,
         "category": "Coffee",
-        "isFavorite": 'false',
+        "isFavorite": "false",
         "image":"kopiko_black_twin"
     },
     {
         "item": "Kopiko Blanca Twin",
         "price": 12,
         "category": "Coffee",
-        "isFavorite": 'false',
+        "isFavorite": "false",
         "image":"kopiko_blanca_twin"
     },
     {
         "item": "Kopiko Brown Twin",
         "price": 10,
         "category": "Coffee",
-        "isFavorite": 'false',
+        "isFavorite": "true",
         "image":"kopiko_brown_twin"
     },
     {
         "item": "GreatTaste Brown Twin",
         "price": 12,
         "category": "Coffee",
-        "isFavorite": 'true',
+        "isFavorite": "true",
         "image":"greattaste_brown_twin"
     }
   ]
