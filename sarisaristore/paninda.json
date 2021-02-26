@@ -202,6 +202,20 @@
         "category": "Coffee",
         "isFavorite": true,
         "image":"greattaste_brown_twin"
+    },
+    {
+        "item": "Magic Sarap",
+        "price": 5,
+        "category": "Seasonings",
+        "isFavorite": true,
+        "image":"greattaste_brown_twin"
+    },
+    {
+        "item": "Oyster Sauce",
+        "price": 5,
+        "category": "Seasonings",
+        "isFavorite": true,
+        "image":"greattaste_brown_twin"
     }
   ]
 
