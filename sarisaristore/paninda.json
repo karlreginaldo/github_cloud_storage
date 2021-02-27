@@ -204,18 +204,564 @@
         "image":"greattaste_brown_twin"
     },
     {
-        "item": "Magic Sarap",
-        "price": 5,
-        "category": "Seasonings",
+        "item": "Nescafe Twin",
+        "price": 0,
+        "category": "",
         "isFavorite": false,
-        "image":"magic_sarap"
+        "image":""
+    },
+    {
+        "item": "Energen",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Kopiko Blanca Solo",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Kopiko Black Solo",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Kopiko Brown Solo",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Pandesal",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Champion",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Milo",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Birchtree",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Nescafe Solo",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Swak",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Alaska",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Tang",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Nestea",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Condensada Pack",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Boston Cocoa",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Sugar",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Nescafe Classic 25g",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Mayonnaise",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Cheez Wiz",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Ketchup 25g",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Ketchup 100g",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Ketchup 320g",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Mang Tomas 40g",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Mang Tomas 100g",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Mang Tomas 320g",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Mang Tomas Bottle",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Ketchup Bottle",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Toyo Suka Pares",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
     },
     {
         "item": "Oyster Sauce",
-        "price": 5,
-        "category": "Seasonings",
+        "price": 0,
+        "category": "",
         "isFavorite": false,
-        "image":"oyster_sauce"
+        "image":""
+    },
+    {
+        "item": "Toyo 60ml",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Toyo 100ml",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Toyo 200ml",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Suka 60ml",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Suka 100ml",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Suka 200ml",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Patis 60ml",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Patis 100ml",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Patis 200ml",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Magic Sarap",
+        "price": 5,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Sinigang Sampalok 11g",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Sinigang Sampalok 22g",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Sinigang Gabi 11g",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Sinigang Gabi 22g",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Knorr Chicken",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Knorr Beef",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Knorr Pig",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Ginisa Mix",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Crispy Fry",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Tomatoe Sauce 115g",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Betsin",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Calla",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Breeze",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Speed Jumbo",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Speed Cut",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Champion",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Surf",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Silka Green",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Silka Orange",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Safeguard White",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Safeguard Yellow",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Colgate",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "CloseUp",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Head and Shoulder",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Creamsilk",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Dove Conditioner",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Dove Shampoo",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Keratin Gold",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Keratin Black",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Keratin Plus",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Keratin Red",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Palmolive",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Sunsilk",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Rexona Shower Clean",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Rexona Passion",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Rexona Men",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Ponds",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Olay",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Joy",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
+    },
+    {
+        "item": "Kiwi",
+        "price": 0,
+        "category": "",
+        "isFavorite": false,
+        "image":""
     }
   ]
 
