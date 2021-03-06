@@ -1,0 +1,215 @@
+[{
+    "item": "GreatTaste White Twin",
+    "price": 12,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":"greattaste_white_twin"
+},
+{
+    "item": "Kopiko Black Twin",
+    "price": 12,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":"kopiko_black_twin"
+},
+{
+    "item": "Kopiko Blanca Twin",
+    "price": 12,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":"kopiko_blanca_twin"
+},
+{
+    "item": "Kopiko Brown Twin",
+    "price": 10,
+    "category": "Coffee",
+    "isFavorite": true,
+    "image":"kopiko_brown_twin"
+},
+{
+    "item": "GreatTaste Brown Twin",
+    "price": 12,
+    "category": "Coffee",
+    "isFavorite": true,
+    "image":"greattaste_brown_twin"
+},
+{
+    "item": "Nescafe Twin",
+    "price": 12,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Energen",
+    "price": 8,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Kopiko Blanca Solo",
+    "price": 0,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Kopiko Black Solo",
+    "price": 0,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Kopiko Brown Solo",
+    "price": 0,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Pandesal",
+    "price": 0,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Champion",
+    "price": 0,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Milo",
+    "price": 8,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Birchtree",
+    "price": 11,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Nescafe Solo",
+    "price": 8,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Bear Brand Swak",
+    "price": 14,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Bear Brand 320g",
+    "price": 118,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Alaska",
+    "price": 0,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Tang",
+    "price": 20,
+    "category": "",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Nestea",
+    "price": 0,
+    "category": "",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Condensada Pack",
+    "price": 0,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Boston Cocoa",
+    "price": 0,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "1/4 Sugar Brown",
+    "price": 15,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "1/4 Sugar Wash",
+    "price": 16,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "1/4 Sugar White",
+    "price": 18,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Nescafe Classic 25g",
+    "price": 25,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Nescafe Stick",
+    "price": 3,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Coffee Mate Creamer",
+    "price": 3,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Coffee Mate 170g",
+    "price": 40,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Coffee Mate 450g",
+    "price": 100,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "",
+    "price": 0,
+    "category": "Coffee",
+    "isFavorite": false,
+    "image":""
+}
+]

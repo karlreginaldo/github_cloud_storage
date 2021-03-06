@@ -1,0 +1,33 @@
+[
+    {
+        "item": "Lighter",
+        "price": 12,
+        "category": "Materials",
+        "isFavorite": false,
+        "image":""
+    },{
+        "item": "Posporo",
+        "price": 3,
+        "category": "Materials",
+        "isFavorite": false,
+        "image":""
+    },{
+        "item": "Plastic Labo",
+        "price": 12,
+        "category": "Materials",
+        "isFavorite": false,
+        "image":""
+    },{
+        "item": "Ice Bag",
+        "price": 22,
+        "category": "Materials",
+        "isFavorite": false,
+        "image":""
+    },{
+        "item": "Scotch Bright",
+        "price": 23,
+        "category": "Materials",
+        "isFavorite": false,
+        "image":""
+    }
+]

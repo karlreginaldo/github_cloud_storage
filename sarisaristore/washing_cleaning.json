@@ -1,0 +1,312 @@
+[{
+    "item": "Todo Tipid",
+    "price": 14,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Ariel",
+    "price": 13,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Breeze Powder",
+    "price": 13,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Speed Bar Jumbo",
+    "price": 12,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "1/4 Speed Bar",
+    "price": 7,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Champion Powder",
+    "price": 7,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Surf fabcon",
+    "price": 7,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Silka Green",
+    "price": 22,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Silka Orange",
+    "price": 20,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Safeguard",
+    "price": 20,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Colgate Twin Pack",
+    "price": 8,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "CloseUp Twin Pack",
+    "price": 8,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Head and Shoulder",
+    "price": 0,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Creamsilk",
+    "price": 8,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Tide Powder",
+    "price": 13,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Calla Big",
+    "price": 13,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Calla Small",
+    "price": 7,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Dove Conditioner",
+    "price": 8,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Dove Shampoo",
+    "price": 8,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Keratin Conditioner",
+    "price": 8,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Palmolive",
+    "price": 0,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Sunsilk",
+    "price": 0,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Rexona",
+    "price": 9,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Ponds Cream",
+    "price": 14,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Olay",
+    "price": 15,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Joy Sachet",
+    "price": 7,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Kiwi",
+    "price": 10,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Downy Small",
+    "price": 7,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Downy 50g",
+    "price": 10,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Dell Fabcon",
+    "price": 7,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Tide Bar Jumbo",
+    "price": 12,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Superox 250ml",
+    "price": 14,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Zonrox 95ml",
+    "price": 12,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Zonrox Color Safe 95ml",
+    "price": 15,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Zonrox Color Safe 250ml",
+    "price": 25,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Floorwax",
+    "price": 18,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Cottonband",
+    "price": 6,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Tissue Roll",
+    "price": 13,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Modess",
+    "price": 7,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Those Days",
+    "price": 3,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Panty Lines",
+    "price": 3,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Sister with wings",
+    "price": 6,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Large Happy Diaper",
+    "price": 11,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Medium Happy Diaper",
+    "price": 10,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Medium Magic Color",
+    "price": 8,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Toothbrush",
+    "price": 16,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Gatsby",
+    "price": 6,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Gel",
+    "price": 3,
+    "category": "WashingAndCleaning",
+    "isFavorite": false,
+    "image":""
+}
+]

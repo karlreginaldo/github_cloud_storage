@@ -1,0 +1,327 @@
+[{
+    "item": "Mayonnaise",
+    "price": 12,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Cheez Wiz",
+    "price": 12,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Ketchup 25g",
+    "price": 4,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Ketchup 100g",
+    "price": 12,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Ketchup 320g",
+    "price": 25,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Mang Tomas 40g",
+    "price": 7,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Mang Tomas 100g",
+    "price": 13,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Mang Tomas 320g",
+    "price": 0,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Mang Tomas Bottle",
+    "price": 32,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Ketchup Bottle",
+    "price": 27,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Toyo Suka Pares",
+    "price": 0,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Oyster Sauce",
+    "price": 7,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Toyo 60ml",
+    "price": 7,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Toyo 100ml",
+    "price": 0,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Toyo 200ml",
+    "price": 12,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Toyo Bottle 350ml",
+    "price": 7,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Suka 60ml",
+    "price": 7,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Suka 100ml",
+    "price": 0,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Suka 200ml",
+    "price": 10,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Patis 60ml",
+    "price": 7,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Patis 100ml",
+    "price": 0,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Patis 200ml",
+    "price": 15,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Magic Sarap",
+    "price": 5,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Sinigang Sampalok 11g",
+    "price": 0,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Sinigang Sampalok 22g",
+    "price": 0,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Sinigang Gabi 11g",
+    "price": 0,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Sinigang Gabi 22g",
+    "price": 0,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Knorr Cubes",
+    "price": 7,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Ginisa Mix",
+    "price": 4,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "1/2 Crispy Fry",
+    "price": 11,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Crispy Fry",
+    "price": 20,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Tomatoe Sauce 115g",
+    "price": 0,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Vetsin",
+    "price": 4,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Salt Small",
+    "price": 1,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Salt Big",
+    "price": 7,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Salt Big",
+    "price": 7,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Paminta",
+    "price": 3,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "BBQTerific",
+    "price": 15,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "",
+    "price": 7,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Spring Oil",
+    "price": 7,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Tungkoong Bagoong",
+    "price": 30,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Star Margarin",
+    "price": 12,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Eden",
+    "price": 16,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Alaska Big",
+    "price": 32,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "Alaska Small",
+    "price": 16,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},
+{
+    "item": "Mantika Bottle",
+    "price": 32,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+},{
+    "item": "1/2 Mantika Bottle",
+    "price": 16,
+    "category": "SeasoningsAndFlavors",
+    "isFavorite": false,
+    "image":""
+}
+]
